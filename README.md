@@ -1,7 +1,7 @@
 # distpicker-php
 ![](https://img.shields.io/badge/php-8.1.10-blue)
 ![](https://img.shields.io/badge/MariaDB-10.4.25-blue)
-![](![GitHub](https://img.shields.io/github/license/Honoka55/distpicker-php))
+![GitHub](https://img.shields.io/github/license/Honoka55/distpicker-php)
 
 A 3-level distpicker based on PHP and MySQL database.
 
